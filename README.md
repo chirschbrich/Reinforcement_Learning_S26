@@ -8,10 +8,10 @@ A collection of assignments exploring core reinforcement learning concepts throu
 
 ## Projects
 
-### Frozen Lake — Monte Carlo & TD Control
+### Frozen Lake - Monte Carlo & TD Control
 Tabular RL methods applied to a classic grid-world environment, with experiments across varying levels of stochasticity.
 
-### Lunar Lander — Value Function Approximation
+### Lunar Lander - Value Function Approximation
 Linear function approximation with tile coding applied to a continuous state space environment.
 
 ---
